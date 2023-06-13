@@ -1,4 +1,4 @@
-# North Seattle Colleg - Events
+# North Seattle College - Events
 Brief description of the project with the inclusion of a mention about the android and web app aspect.
  
 ## Table of Contents
