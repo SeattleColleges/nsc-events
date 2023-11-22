@@ -1,5 +1,5 @@
 # North Seattle College - Events
-Brief description of the project with the inclusion of a mention about the android and web app aspect.
+A North Seattle College Events Application that allows users to view and manage numerous events and runs on advanced framework underdeveloped by NSC staffs and students.
  
 ## Table of Contents
 Links to the further sub-headings --> 
