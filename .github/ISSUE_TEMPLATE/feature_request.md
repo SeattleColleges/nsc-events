@@ -7,10 +7,10 @@ assignees: ''
 
 ---
 
-If this a USER STORY, please use the following naming convention:
+If this a USER STORY, please use the following User Story naming convention:
 USER STORY : < title of user story >
 
-If this is an issue for a USER STORY, please use the following naming convention:
+If this is an issue for a USER STORY, please use the following Issue naming convention:
 < title of user story > : < issue name >
 
 Make sure the first line is formatted as follows.
