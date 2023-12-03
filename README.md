@@ -9,7 +9,7 @@ Stubed out
 - [License](#license)
  
 ## About The Project
-- NSC-Event's [web-based](https://github.com/SeattleColleges/nsc-events-nextjs) frontend utilizes Typescript via `NextJs`.
+- NSC-Event's [web-based](https://github.com/SeattleColleges/nsc-events-nextjs) frontend utilizes `Typescript` via `NextJs`.
 
    [![11.png](https://i.postimg.cc/QCC5CzXf/11.png)](https://postimg.cc/tn07m2n6)
 
@@ -17,7 +17,7 @@ Stubed out
 
   [![22.png](https://i.postimg.cc/hPkX9vD8/22.png)](https://postimg.cc/Wh7pV2Jt)
 
-- `NestJs` was selected for [backend](https://github.com/SeattleColleges/nsc-events-nestjs) services also using Typescript. 
+- `NestJs` was selected for [backend](https://github.com/SeattleColleges/nsc-events-nestjs) services also using `Typescript`. 
 
 - `Google Cloud` powers our storage and `MongoDB` hosts our database.
 
