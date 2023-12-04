@@ -1,6 +1,12 @@
 # Introduction to North Seattle College Events
-Stubed out
- 
+North Seattle College (NSC) provides a dynamic range of opportunities for students seeking engagement in campus life. This encompasses a diverse selection of events sponsored by Student Leadership, encompassing both entertaining and informative gatherings. Additionally, students can participate in thought-provoking lectures, community meetings, captivating library exhibits, and events tailored for transfer students.
+
+Currently, these events are conveniently listed in a table-like format on the NSC website. Clicking on a specific event's hyperlink expands to reveal additional details. To streamline communication, students can sign up for email notifications for events or clubs of interest. Notifications are also sent through Canvas and NSC mail servers, keeping students informed about all upcoming events.
+
+In a significant move to enhance accessibility and consolidate notifications, NSC-Events collaborated with the NSC Application Development department in June 2023. Together, we have developed separate web and mobile applications to showcase, register, and track event participation across the entire campus. The shared backend app facilitates seamless connectivity with cloud services, streamlining data collection from pre-event clicks to the actual number of attendees.
+
+This service enhancement, particularly the robust data collection, will prove invaluable to event planners and administrators. Increased knowledge about which events are being viewed, coupled with post-event participation data, will empowers planners to organize more successful events with higher attendance rates.
+  
 ## Table of Contents
 - [About The Project](#about-the-project)
 - [MVP Progress](#mvp-progress)
@@ -13,7 +19,7 @@ Stubed out
 
    [![11.png](https://i.postimg.cc/QCC5CzXf/11.png)](https://postimg.cc/tn07m2n6)
 
-- The [android-based](https://github.com/SeattleColleges/nsc-events-android) frontend was developed using `Koitlin` within `Android Studio`.
+- The [android-based](https://github.com/SeattleColleges/nsc-events-android) frontend was developed using `Kotlin` within `Android Studio`.
 
   [![22.png](https://i.postimg.cc/hPkX9vD8/22.png)](https://postimg.cc/Wh7pV2Jt)
 
@@ -36,7 +42,7 @@ As a student team primarily operating asynchronously, our journey commenced in l
 - The following video links demonstrate our progress along the way:
 	- Pre MVP1
 		- [Web](https://www.youtube.com/watch?v=0t_JNORHuo0) 
-		- [Mobile]() *still need*
+		- [Mobile](https://youtu.be/4WY4ZIA2664?feature=shared)
 	- MVP1
 		- Web (The work on this application will continue April of 2024.)
 		- [Mobile](https://www.youtube.com/watch?v=i3xTs-7_xp8)
