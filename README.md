@@ -1,11 +1,11 @@
 # Introduction to North Seattle College Events
-North Seattle College (NSC) provides a dynamic range of opportunities for students seeking engagement in campus life. This encompasses a diverse selection of events sponsored by Student Leadership, encompassing both entertaining and informative gatherings. Additionally, students can participate in thought-provoking lectures, community meetings, captivating library exhibits, and events tailored for transfer students.
+North Seattle College (NSC) provides a dynamic range of opportunities for students seeking engagement in campus life. This encompasses a diverse selection of events sponsored by Student Leadership and faculity, encompassing both entertaining and informative gatherings. Additionally, students can participate in thought-provoking lectures, community meetings, captivating library exhibits, and events tailored for transfer students.
 
 Currently, these events are conveniently listed in a table-like format on the NSC website. Clicking on a specific event's hyperlink expands to reveal additional details. To streamline communication, students can sign up for email notifications for events or clubs of interest. Notifications are also sent through Canvas and NSC mail servers, keeping students informed about all upcoming events.
 
-In a significant move to enhance accessibility and consolidate notifications, NSC-Events collaborated with the NSC Application Development department in June 2023. Together, we have developed separate web and mobile applications to showcase, register, and track event participation across the entire campus. The shared backend app facilitates seamless connectivity with cloud services, streamlining data collection from pre-event clicks to the actual number of attendees.
+In a significant move to enhance accessibility and consolidate how many times students are notified, NSC-Events collaborated with the NSC Application Development department in June 2023. Together, we have developed separate web and mobile applications to showcase, register, and track event participation across the entire campus. The shared backend app facilitates seamless connectivity with cloud services, streamlining data collection from pre-event clicks to the actual number of attendees.
 
-This service enhancement, particularly the robust data collection, will prove invaluable to event planners and administrators. Increased knowledge about which events are being viewed, coupled with post-event participation data, will empowers planners to organize more successful events with higher attendance rates.
+This service enhancement, particularly the robust data collection, will prove invaluable to event planners and administrators alike. Increased knowledge about which events are being viewed, coupled with post-event participation data, will empower planners to organize more successful events with higher attendance rates.
   
 ## Table of Contents
 - [About The Project](#about-the-project)
