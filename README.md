@@ -34,7 +34,7 @@ This service enhancement, particularly the robust data collection, will prove in
 - [Postman](https://www.postman.com/): for testing API endpoints
 - [MongoDB](https://www.mongodb.com/): for collecting data
 - [JWT](https://jwt.io/): for authenticating users
-- [Google Cloud](https://cloud.google.com/gcp?utm_source=google&utm_medium=cpc&utm_campaign=na-US-all-en-dr-bkws-all-all-trial-e-dr-1605212&utm_content=text-ad-none-any-DEV_c-CRE_665735450627-ADGP_Hybrid+%7C+BKWS+-+EXA+%7C+Txt_Google+Cloud-KWID_43700077223807304-kwd-6458750523&utm_term=KW_google%20cloud-ST_google+cloud&gad_source=1&gclid=Cj0KCQiAgqGrBhDtARIsAM5s0_lZss9iNTytw2uZ_WJ8_H0PGVmFvXwkK06n99z0LeosNebnEEVAkI4aAoWCEALw_wcB&gclsrc=aw.ds): for storage and eventually deploymnent
+- [Google Cloud](https://cloud.google.com/gcp?utm_source=google&utm_medium=cpc&utm_campaign=na-US-all-en-dr-bkws-all-all-trial-e-dr-1605212&utm_content=text-ad-none-any-DEV_c-CRE_665735450627-ADGP_Hybrid+%7C+BKWS+-+EXA+%7C+Txt_Google+Cloud-KWID_43700077223807304-kwd-6458750523&utm_term=KW_google%20cloud-ST_google+cloud&gad_source=1&gclid=Cj0KCQiAgqGrBhDtARIsAM5s0_lZss9iNTytw2uZ_WJ8_H0PGVmFvXwkK06n99z0LeosNebnEEVAkI4aAoWCEALw_wcB&gclsrc=aw.ds): for storage and eventually deployment
 - Hosting: for availing these apps to the masses... TBD
  
 ## MVP Progress
