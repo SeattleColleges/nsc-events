@@ -1,5 +1,5 @@
 # Introduction to North Seattle College Events
-North Seattle College (NSC) provides a dynamic range of opportunities for students seeking engagement in campus life. This encompasses a diverse selection of events sponsored by Student Leadership and faculity, encompassing both entertaining and informative gatherings. Additionally, students can participate in thought-provoking lectures, community meetings, captivating library exhibits, and events tailored for transfer students.
+North Seattle College (NSC) provides a dynamic range of opportunities for students seeking engagement in campus life. This encompasses a diverse selection of events sponsored by Student Leadership and faculty, encompassing both entertaining and informative gatherings. Additionally, students can participate in thought-provoking lectures, community meetings, captivating library exhibits, and events tailored for transfer students.
 
 Currently, these events are conveniently listed in a table-like format on the [NSC website](https://northseattle.edu/campus-life/campus-events). Clicking on a specific event's hyperlink expands to reveal additional details. To streamline communication, students can sign up for email notifications for events or clubs of interest. Notifications are also sent through Canvas and NSC mail servers, keeping students informed about all upcoming events.
 
