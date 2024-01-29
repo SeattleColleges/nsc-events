@@ -22,8 +22,8 @@ jobs:
       #   with:
       #     node-version: '18.x'
       #     cache: 'npm'
-      - name: Clean install
-        run: npm ci
+      # - name: Clean install
+      #   run: npm ci
       - name: Run linter
         run: npm run lint
       - name: Compile typescript
