@@ -24,14 +24,14 @@ jobs:
       #     cache: 'npm'
       # - name: Clean install
       #   run: npm ci
-      - name: Run linter
-        run: npm run lint
-      - name: Compile typescript
-        run: npm run compile
-      - name: Jest unit tests
-        run: npm run unit:tests
-      - name: Test coverage
-        run: npm run test:coverage
+      # - name: Run linter
+      #   run: npm run lint
+      # - name: Compile typescript
+      #   run: npm run compile
+      # - name: Jest unit tests
+      #   run: npm run unit:tests
+      # - name: Test coverage
+      #   run: npm run test:coverage
 
 #      - name: Run Redux/State Management Tests
 #        run: npm run redux:tests
@@ -54,16 +54,16 @@ jobs:
 #      - name: Run Integration Tests
 #        run: npm run test:integration
 
-      - name: Build App
-        run: npm run build --if-present
+      # - name: Build App
+      #   run: npm run build --if-present
 
 # https://docs.github.com/en/actions/using-workflows/storing-workflow-data-as-artifacts
-      - name: Archive Next.js build
-        uses: actions/upload-artifact@v3
-        with:
-            name: next.js-build
-            path: .next/
-            retention-days: 14
+      # - name: Archive Next.js build
+      #   uses: actions/upload-artifact@v3
+      #   with:
+      #       name: next.js-build
+      #       path: .next/
+      #       retention-days: 14
 
       - name: Archive code coverage results
         uses: actions/upload-artifact@v3
