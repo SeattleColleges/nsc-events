@@ -8,6 +8,7 @@ This is an issue!
 
 - Relates to <user story #>
 - Any additional information you feel is necessary.
+- Screenshots/gifs/videos/diagrams/other visual aids.
 
 3. Remember to:
 

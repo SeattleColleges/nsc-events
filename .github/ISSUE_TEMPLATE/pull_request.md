@@ -9,6 +9,7 @@ This is a pull request!
 - Resolves <issue #>
 - Description of what this pull request is for.
 - Additional information to help others that are testing.
+- Screenshots/gifs/videos/diagrams/other visual aids.
 
 3. Remember to:
 
