@@ -1,3 +1,12 @@
+---
+name: Pull Request
+about: Create a pull request.
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ### **Pull requests should follow a common structure for organizational purposes and quick readability.** 
 
 ## **So what format should we follow?**
